@@ -1,0 +1,78 @@
+unit uFrmCadastro;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, uFrmPai, Vcl.StdCtrls;
+
+type
+  TFrmPai1 = class(TFrmPai)
+    lbl_Codigo: TLabel;
+    Edt_Codigo: TEdit;
+    btnSalvar: TButton;
+    btnSair: TButton;
+    procedure btnSalvarClick(Sender: TObject);
+    procedure btnSairClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+    procedure Salvar; virtual;
+    procedure Sair;   virtual;
+    procedure LimparEdit;  virtual;
+    procedure CarregaEdit; virtual;
+    procedure BloquearEdit; virtual;
+    procedure DesbloquearEdit; virtual;
+  end;
+
+var
+  FrmPai1: TFrmPai1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TFrmPai1.btnSalvarClick(Sender: TObject);
+begin
+  inherited;
+  Salvar;
+end;
+
+procedure TFrmPai1.BloquearEdit;
+begin
+
+end;
+
+procedure TFrmPai1.CarregaEdit;
+begin
+
+end;
+
+procedure TFrmPai1.DesbloquearEdit;
+begin
+
+end;
+
+procedure TFrmPai1.btnSairClick(Sender: TObject);
+begin
+  inherited;
+  Sair;
+end;
+
+procedure TFrmPai1.LimparEdit;
+begin
+
+end;
+
+procedure TFrmPai1.Sair;
+begin
+   close;
+end;
+
+procedure TFrmPai1.Salvar;
+begin
+
+end;
+
+end.

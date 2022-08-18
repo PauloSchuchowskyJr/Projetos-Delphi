@@ -1,0 +1,62 @@
+inherited FrmConsulta: TFrmConsulta
+  Caption = 'FrmConsulta'
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Edt_Chave: TEdit
+    Left = 8
+    Top = 8
+    Width = 161
+    Height = 21
+    TabOrder = 0
+  end
+  object btnPesquisar: TButton
+    Left = 175
+    Top = 8
+    Width = 75
+    Height = 21
+    Caption = '&Pesquisar'
+    TabOrder = 1
+    OnClick = btnPesquisarClick
+  end
+  object btnIncluir: TButton
+    Left = 442
+    Top = 378
+    Width = 75
+    Height = 25
+    Caption = '&Incluir'
+    TabOrder = 2
+  end
+  object btnAlterar: TButton
+    Left = 523
+    Top = 378
+    Width = 75
+    Height = 25
+    Caption = '&Alterar'
+    TabOrder = 3
+  end
+  object btnExcluir: TButton
+    Left = 604
+    Top = 378
+    Width = 75
+    Height = 25
+    Caption = '&Excluir'
+    TabOrder = 4
+  end
+  object btnSair: TButton
+    Left = 685
+    Top = 378
+    Width = 75
+    Height = 25
+    Caption = '&Sair'
+    TabOrder = 5
+    OnClick = btnSairClick
+  end
+  object ListView1: TListView
+    Left = 8
+    Top = 39
+    Width = 752
+    Height = 333
+    Columns = <>
+    TabOrder = 6
+  end
+end

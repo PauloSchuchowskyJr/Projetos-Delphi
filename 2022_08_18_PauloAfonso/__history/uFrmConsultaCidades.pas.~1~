@@ -1,0 +1,24 @@
+unit uFrmConsultaCidades;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, ufrmConsulta, Vcl.ComCtrls, Vcl.StdCtrls;
+
+type
+  TFrmConsultaCidades = class(TFrmConsulta)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmConsultaCidades: TFrmConsultaCidades;
+
+implementation
+
+{$R *.dfm}
+
+end.

@@ -1,0 +1,20 @@
+inherited FrmConsultaPaises: TFrmConsultaPaises
+  Caption = 'Consulta de Paises'
+  PixelsPerInch = 96
+  TextHeight = 13
+  inherited btnPesquisar: TButton
+    OnClick = nil
+  end
+  inherited btnIncluir: TButton
+    OnClick = nil
+  end
+  inherited btnAlterar: TButton
+    OnClick = nil
+  end
+  inherited btnExcluir: TButton
+    OnClick = nil
+  end
+  inherited btnSair: TButton
+    OnClick = nil
+  end
+end

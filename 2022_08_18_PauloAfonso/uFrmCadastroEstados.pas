@@ -1,0 +1,82 @@
+unit uFrmCadastroEstados;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, uFrmCadastro, Vcl.StdCtrls;
+
+type
+  TFrmCadastroEstados = class(TFrmCadastro)
+    procedure btnSairClick(Sender: TObject);
+    procedure btnSalvarClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+    procedure Salvar; override;
+    procedure Sair;   override;
+    procedure LimparEdit;  override;
+    procedure CarregaEdit; override;
+    procedure BloquearEdit; override;
+    procedure DesbloquearEdit; override;
+  end;
+
+var
+  FrmCadastroEstados: TFrmCadastroEstados;
+
+implementation
+
+{$R *.dfm}
+
+{ TFrmCadastroEstados }
+
+procedure TFrmCadastroEstados.BloquearEdit;
+begin
+  inherited;
+
+end;
+
+procedure TFrmCadastroEstados.btnSairClick(Sender: TObject);
+begin
+  inherited;
+  Sair;
+end;
+
+procedure TFrmCadastroEstados.btnSalvarClick(Sender: TObject);
+begin
+  inherited;
+  Salvar;
+end;
+
+procedure TFrmCadastroEstados.CarregaEdit;
+begin
+  inherited;
+
+end;
+
+procedure TFrmCadastroEstados.DesbloquearEdit;
+begin
+  inherited;
+
+end;
+
+procedure TFrmCadastroEstados.LimparEdit;
+begin
+  inherited;
+
+end;
+
+procedure TFrmCadastroEstados.Sair;
+begin
+  inherited;
+  close;
+end;
+
+procedure TFrmCadastroEstados.Salvar;
+begin
+  inherited;
+
+end;
+
+end.

@@ -1,0 +1,26 @@
+unit uFrmConsultaPaises;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, ufrmConsulta, Vcl.ComCtrls, Vcl.StdCtrls,
+  uFrmCadastroPaises;
+
+type
+  TFrmConsultaPaises = class(TFrmConsulta)
+  private
+    { Private declarations }
+    oFrmCadastroPaises : TFrmCadastroPaises;
+  public
+    { Public declarations }
+  end;
+
+var
+  FrmConsultaPaises: TFrmConsultaPaises;
+
+implementation
+
+{$R *.dfm}
+
+end.

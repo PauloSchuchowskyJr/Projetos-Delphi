@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/28 15:58:15.000.029,=C:\Users\paulo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 15:28:14.000.326,=C:\Users\paulo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 15:34:19.000.375,C:\Users\paulo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\ufrmMenu.pas</Transaction>
+    <Transaction>2022/08/17 15:34:19.000.375,C:\Users\paulo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\ufrmMenu.dfm</Transaction>
+    <Transaction>2022/08/17 15:34:47.000.101,C:\Users\paulo\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Project1.dproj</Transaction>
+    <Transaction>2022/08/17 16:38:45.000.046,=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 16:41:24.000.918,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmPai.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 16:41:24.000.918,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmPai.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.dfm</Transaction>
+    <Transaction>2022/08/17 16:42:57.000.368,=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 16:44:59.000.711,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmConsulta.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 16:44:59.000.711,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmConsulta.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.dfm</Transaction>
+    <Transaction>2022/08/17 16:45:11.000.105,=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 16:46:33.000.422,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmConsultaPaises.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 16:46:33.000.422,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmConsultaPaises.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.dfm</Transaction>
+    <Transaction>2022/08/17 16:46:49.000.274,=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 16:47:58.000.444,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmConsultaEstados.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 16:47:58.000.444,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmConsultaEstados.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.dfm</Transaction>
+    <Transaction>2022/08/17 16:48:08.000.514,=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 16:49:05.000.626,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmConsultaCidades.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/17 16:49:05.000.626,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmConsultaCidades.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.dfm</Transaction>
+    <Transaction>2022/08/18 14:21:05.000.757,=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 14:28:55.000.819,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmCadastro.pas</Transaction>
+    <Transaction>2022/08/18 14:28:55.000.819,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmCadastro.dfm</Transaction>
+    <Transaction>2022/08/18 14:30:25.000.753,=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 14:32:10.000.039,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmCadastroPaises.dfm</Transaction>
+    <Transaction>2022/08/18 14:32:10.000.039,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmCadastroPaises.pas</Transaction>
+    <Transaction>2022/08/18 14:32:45.000.827,=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 14:33:03.000.312,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmCadastroEstados.dfm</Transaction>
+    <Transaction>2022/08/18 14:33:03.000.312,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmCadastroEstados.pas</Transaction>
+    <Transaction>2022/08/18 14:58:06.000.085,=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas</Transaction>
+    <Transaction>2022/08/18 14:59:02.000.478,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.pas=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmCadastroCidades.pas</Transaction>
+    <Transaction>2022/08/18 14:59:02.000.478,C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\Unit1.dfm=C:\Users\paulo\OneDrive\Área de Trabalho\Delphi\Form\Novo\uFrmCadastroCidades.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
